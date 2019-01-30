@@ -1,0 +1,9 @@
+Metadata-Version: 1.2
+Name: rnn-similarity
+Version: 1.0
+Summary: RNN-Similarity model for answer sentence selection
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
